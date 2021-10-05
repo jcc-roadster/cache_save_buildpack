@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# this pack will always succeed detection, if no .buildcache then no-op
+exit 0
